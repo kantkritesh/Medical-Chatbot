@@ -9,6 +9,7 @@ touch src/__init__.py
 touch src/helper__init__.py
 touch src/prompt.py
 touch .env
+touch setup.py
 touch app.py
 touch research/trails.ipynb
 touch requirements.txt  
